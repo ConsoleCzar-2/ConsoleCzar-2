@@ -55,7 +55,7 @@ I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently
 <br/>
 <div align="center">
   <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" /> -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&v=3" alt="Top Languages" />
 </div>
 
 ---
