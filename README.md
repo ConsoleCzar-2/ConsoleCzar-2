@@ -12,7 +12,7 @@ Here is a customized layout based on your inputs and resume!
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently studying in the 7th semester (CGPA: 9.56). I enjoy building things from scratch and exploring the inner workings of systems. My core interests lie in **low-level programming with C/C++**, leveraging **Python** for fast scripting, automation, and machine learning, and crafting responsive applications using **Flutter**. I'm also deeply interested in Cybersecurity and currently lead the Cybersecurity Chapter at CodeIIEST.
+I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently studying in the 7th semester (CGPA: 9.56). I enjoy building things from scratch and exploring the inner workings of systems. My core interests lie in **low-level programming with C/C++**, leveraging **Python** for fast scripting, automation, and machine learning, and crafting responsive applications using **Flutter**. I'm also deeply interested in Cybersecurity and currently the **Cybersecurity Lead at CodeIIEST**.
 
 - I'm based in: **Kolkata, West Bengal, India**
 - Contact me at: [**![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)**](mailto:[EMAIL_ADDRESS])
