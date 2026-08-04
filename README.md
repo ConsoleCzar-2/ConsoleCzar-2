@@ -19,7 +19,7 @@ I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently
 - I'm currently working on: **SMB Client App in Flutter**, **FrameIT (storing and sending data as pixels)** and **OS-level projects (x86 Assembly & Simple Kernel)**
 - I'm currently learning: **Flutter, x86 Architecture, System Design, Cloud Computing**
 - I'm open to collaborating on: **Interesting low-level projects, AI/ML pipelines, or mobile apps**
-- Anything else: **I am a CTF enthusiast (RootAccess & EOFool CTF Organizer) and have won several hackathons (Finalist at IIESTxUCO Bank Hackathon, 2025 & 1st in Truth Tuner, 2025!)**
+- Extra bits: **I am a CTF enthusiast (RootAccess & EOFool CTF Organizer) and have won several hackathons (Finalist at IIESTxUCO Bank Hackathon, 2025 & 1st in Truth Tuner, 2025!)**
 
 ### Connect with me & View My Resume:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirup-saha-b878a5298)
