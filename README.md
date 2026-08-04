@@ -17,7 +17,7 @@ I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently
 - I'm based in: **Kolkata, West Bengal, India**
 - Contact me at: [**![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)**](mailto:[abhirup5002@gmail.com])
 - I'm currently working on: **SMB Client App in Flutter**, **FrameIT (storing and sending data as pixels)** and **OS-level projects (x86 Assembly & Simple Kernel)**
-- I'm currently learning: **Flutter, x86 Architecture, System Design, Cloud Computing**
+- I'm currently learning: **Flutter, React, x86 Architecture, System Design, Cloud Computing**
 - I'm open to collaborating on: **Interesting low-level projects, AI/ML pipelines, or mobile apps**
 - Fun facts: **I am a CTF enthusiast (RootAccess & EOFool CTF Organizer) and have won several hackathons (Finalist at IIESTxUCO Bank Hackathon, 2025 & 1st in Truth Tuner, 2025!)**
 
