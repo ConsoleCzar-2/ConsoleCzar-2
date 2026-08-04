@@ -15,11 +15,11 @@ Here is a customized layout based on your inputs and resume!
 I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently studying in the 7th semester (CGPA: 9.56). I enjoy building things from scratch and exploring the inner workings of systems. My core interests lie in **low-level programming with C/C++**, leveraging **Python** for fast scripting, automation, and machine learning, and crafting responsive applications using **Flutter**. I'm also deeply interested in Cybersecurity and currently the **Cybersecurity Lead at CodeIIEST**.
 
 - I'm based in: **Kolkata, West Bengal, India**
-- Contact me at: [**![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)**](mailto:[EMAIL_ADDRESS])
+- Contact me at: [**![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)**](mailto:[abhirup5002@gmail.com])
 - I'm currently working on: **SMB Client App in Flutter**, **FrameIT (storing and sending data as pixels)** and **OS-level projects (x86 Assembly & Simple Kernel)**
 - I'm currently learning: **Flutter, x86 Architecture, System Design, Cloud Computing**
 - I'm open to collaborating on: **Interesting low-level projects, AI/ML pipelines, or mobile apps**
-- Extra bits: **I am a CTF enthusiast (RootAccess & EOFool CTF Organizer) and have won several hackathons (Finalist at IIESTxUCO Bank Hackathon, 2025 & 1st in Truth Tuner, 2025!)**
+- Fun facts: **I am a CTF enthusiast (RootAccess & EOFool CTF Organizer) and have won several hackathons (Finalist at IIESTxUCO Bank Hackathon, 2025 & 1st in Truth Tuner, 2025!)**
 
 ### Connect with me & View My Resume:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirup-saha-b878a5298)
@@ -49,13 +49,13 @@ I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ConsoleCzar-2&theme=vision-friendly-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ConsoleCzar-2&theme=vision-friendly-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
   <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" /> -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Languages" />
 </div>
 
 ---
