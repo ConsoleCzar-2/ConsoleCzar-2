@@ -49,13 +49,13 @@ I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ConsoleCzar-2&theme=vision-friendly-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ConsoleCzar-2&theme=vision-friendly-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
   <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" /> -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConsoleCzar-2&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
 </div>
 
 ---
