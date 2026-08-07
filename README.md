@@ -24,7 +24,7 @@ I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently
 ### Connect with me & View My Resume:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirup-saha-b878a5298)
 [![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?logo=github&logoColor=purple)](https://github.com/ConsoleCzar-2)
-[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?logo=adobeacrobatreader&logoColor=white)](./Resume_AbhirupSaha.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?logo=adobeacrobatreader&logoColor=white)]((https://consoleczar-2.github.io/ConsoleCzar-2/Resume_AbhirupSaha.pdf))
 
 <br/>
 
