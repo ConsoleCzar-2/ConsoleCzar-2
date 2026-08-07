@@ -22,9 +22,9 @@ I am a Computer Science and Technology undergrad at **IIEST Shibpur**, currently
 - Fun facts: **I am a CTF enthusiast (RootAccess & EOFool CTF Organizer) and have won several hackathons (Finalist at IIESTxUCO Bank Hackathon, 2025 & 1st in Truth Tuner, 2025!)**
 
 ### Connect with me & View My Resume:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirup-saha-b878a5298)
-[![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?logo=github&logoColor=purple)](https://github.com/ConsoleCzar-2)
-[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?logo=adobeacrobatreader&logoColor=white)](https://consoleczar-2.github.io/ConsoleCzar-2/Resume_AbhirupSaha.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirup-saha-b878a5298)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConsoleCzar-2)
+[![Resume](https://img.shields.io/badge/Resume-%23EC1C24.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://consoleczar-2.github.io/ConsoleCzar-2/Resume_AbhirupSaha.pdf)
 
 <br/>
 
